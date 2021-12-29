@@ -1,0 +1,10 @@
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\bin\Debug\ApiClientes.exe.config
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\bin\Debug\ApiClientes.exe
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\bin\Debug\ApiClientes.pdb
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\obj\Debug\ApiClientes.csproj.AssemblyReference.cache
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\obj\Debug\ApiClientes.Form1.resources
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\obj\Debug\ApiClientes.Properties.Resources.resources
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\obj\Debug\ApiClientes.csproj.GenerateResource.cache
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\obj\Debug\ApiClientes.csproj.CoreCompileInputs.cache
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\obj\Debug\ApiClientes.exe
+C:\Users\thaysa.lacerda\Documents\Estudos\ClientesApi\ApiClientes\ApiClientes\obj\Debug\ApiClientes.pdb
